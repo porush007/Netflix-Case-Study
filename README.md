@@ -1,9 +1,11 @@
 # 🎬 Netflix Content Analysis — Exploratory Data Analysis
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-2.2-150458?style=flat-square&logo=pandas)
-![Seaborn](https://img.shields.io/badge/Seaborn-0.13-4EACD0?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.1-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.24-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12-4EACD0?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 > An end-to-end exploratory data analysis on 8,000+ Netflix titles — uncovering content trends, genre distributions, country-wise patterns, and growth over time.
 
@@ -36,7 +38,7 @@ This project explores the Netflix titles dataset to answer key business question
 ```
 netflix-content-eda/
 │
-├── netflix_eda.ipynb        # Main Jupyter Notebook with full analysis
+├── Netflix_Case_Study.ipynb        # Main Jupyter Notebook with full analysis
 ├── README.md                # Project documentation (you're here!)
 ├── requirements.txt         # Python dependencies
 │
@@ -85,7 +87,7 @@ jupyter notebook
 ```
 
 ### 4. Open the notebook
-Click on `netflix_eda.ipynb` and run all cells (`Kernel → Restart & Run All`)
+Click on `Netflix_Case_Study.ipynb` and run all cells (`Kernel → Restart & Run All`)
 
 ---
 
@@ -100,7 +102,6 @@ Click on `netflix_eda.ipynb` and run all cells (`Kernel → Restart & Run All`)
 ## 👤 Author
 
 **Porush**
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 💻 [GitHub](https://github.com/your-username)
-- 🌐 [Portfolio](https://your-portfolio.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/porush-agrawal)
+- 💻 [GitHub](https://github.com/porush007)
 
