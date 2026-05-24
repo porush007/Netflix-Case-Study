@@ -44,6 +44,7 @@ netflix-content-eda/
 │   └── netflix_titles.csv   # Raw dataset (sourced from Kaggle)
 │
 └── visuals/                 # Exported charts and plots
+    └── (auto-generated when you run the notebook)              
     ├── content_type_split.png
     ├── top_genres.png
     ├── yearly_additions.png
